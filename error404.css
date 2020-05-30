@@ -7,7 +7,8 @@ margin: 0;}
 body{ text-align: center;
 padding: 0;
 margin: 0; background-repeat: no-repeat;
- background-image: url(https://images.pexels.com/photos/60013/desert-drought-dehydrated-clay-soil-60013.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.jpg); background-size: 100%;}
+ background-image: url(https://images.pexels.com/photos/60013/desert-drought-dehydrated-clay-soil-60013.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.jpg);
+ background-size: cover;}
 .butt{ padding: 6px;
      margin: 30px;
     width: 13%;
@@ -18,9 +19,7 @@ margin: 0; background-repeat: no-repeat;
 
 h1 {
   color: white;
-  text-shadow: -1px 0 black , 0 3px #566070, 3px 0 #566070, 0 -1px black;}
-h1{ /*color: rgba(86, 96, 112, 0.4);*/
-	color: url(desert1.jpg);
+  text-shadow: -1px 0 black , 0 3px #566070, 3px 0 #566070, 0 -1px black;
 font-size: 300px; padding: 0;
 margin: 0;
 }
