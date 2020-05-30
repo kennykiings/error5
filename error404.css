@@ -8,7 +8,7 @@ body{ text-align: center;
 padding: 0;
 margin: 0; background-repeat: no-repeat;
  background-image: url(https://images.pexels.com/photos/60013/desert-drought-dehydrated-clay-soil-60013.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.jpg);
- background-size: 100% 100%;}
+ background-size: cover;}
 .butt{ padding: 6px;
      margin: 30px;
     width: 13%;
